@@ -1,1 +1,1 @@
-export * from './src/common/gu-common.module';
+export * from './src/library/ca-theme';
