@@ -2,7 +2,7 @@
   "name": "@criollapp/theme",
   "main": "./bundles/criollapp-theme.umd.js",
   "typings": "typings/public_api.d.ts",
-  "version": "1.0.16",
+  "version": "1.0.21",
   "license": "MIT",
   "description": "This library has styles names and themes logic.",
   "scripts": {
@@ -31,8 +31,8 @@
     "url": "https://github.com/criollapp/theme.git"
   },
   "dependencies": {
-    "@criollapp/common": "^1.0.16",
-    "@criollapp/tests": "^1.0.16",
+    "@criollapp/common": "^1.0.21",
+    "@criollapp/tests": "^1.0.21",
     "zone.js": "^0.8.20",
     "@angular/cli": "^1.6.5",
     "@angular/common": "^5.2.1",
