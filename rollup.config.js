@@ -25,7 +25,6 @@ import sass from 'node-sass';
  */
 const globals = {
   '@criollapp/common': 'ng.caCommon',
-   '@x/forms': 'ng.xForms',
   '@criollapp/tests': 'ng.caTests',
     '@angular/core': 'ng.core',
     '@angular/common': 'ng.common',

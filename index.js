@@ -1,1 +1,1 @@
-export * from './src/library/ca-theme';
+export * from './public_api';
