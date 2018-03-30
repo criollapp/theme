@@ -1,7 +1,7 @@
 {
   "$schema": "./node_modules/@angular/cli/lib/config/schema.json",
   "project": {
-    "name": "criollapp-theme"
+    "name": "ca-theme"
   },
   "apps": [
     {

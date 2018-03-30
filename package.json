@@ -2,7 +2,7 @@
   "name": "@criollapp/theme",
   "main": "./bundles/ca-theme.umd.js",
   "typings": "typings/public_api.d.ts",
-  "version": "1.0.23",
+  "version": "1.0.24",
   "license": "MIT",
   "description": "This library has styles names and themes logic.",
   "scripts": {
@@ -23,7 +23,8 @@
   "keywords": [
     "angular2",
     "library",
-    "theme"
+    "theme",
+    "template"
   ],
   "author": "Miguel Rivera",
   "repository": {
